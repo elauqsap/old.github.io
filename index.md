@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Home
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Read [About Me](http://pasqualedagostino.github.io/2013/06/22/my-first-post/)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
