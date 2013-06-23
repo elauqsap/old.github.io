@@ -3,6 +3,10 @@ layout: post
 title: "My First Post"
 description: ""
 category: 
-tags: []
+tags: [introduction]
 ---
 {% include JB/setup %}
+
+### About Me
+
+- My name is Pasquale D'Agostino
