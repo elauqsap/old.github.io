@@ -10,3 +10,7 @@ tags: [introduction]
 ### About Me
 
 - My name is Pasquale D'Agostino
+
+{% highlight bash %}
+sudo rake install
+{% endhighlight %}
