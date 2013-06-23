@@ -2,8 +2,8 @@
 layout: post
 title: "My First Post"
 description: ""
-category: 
-tags: [introduction]
+category: intro 
+tags: [intro]
 ---
 {% include JB/setup %}
 

@@ -12,7 +12,6 @@ layout: page
 {% endfor %}			
 </ul>
 
-<h2><a href="archive.html">Read more..</a></h2>
-Test
-Read [About Me](http://pasqualedagostino.github.io/2013/06/22/my-first-post/)
+<h2><a href="archive.html">More Posts</a></h2>
 
+Read [About Me](http://pasqualedagostino.github.io/2013/06/22/my-first-post/)
