@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 
-tagline: "The Computer Engineer's Guide To The Network"
+tagline:
 # author :
 #  name : Pasquale D'Agostino
 #  email : pasquale-dagostino@uiowa.edu
