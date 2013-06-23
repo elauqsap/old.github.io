@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: The Computer Engineer's Guide To The Network
 ---
 {% include JB/setup %}
 
