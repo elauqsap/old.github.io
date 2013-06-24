@@ -2,7 +2,7 @@
 layout: page
 ---
 {% include JB/setup %}
-# The Computer Engineer's Guide To The Network
+## The Computer Engineer's Guide To The Network
 <ul class="posts">
 {% for post in site.posts limit:5 %}
 <article>
