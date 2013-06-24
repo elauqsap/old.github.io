@@ -1,5 +1,6 @@
 ---
 layout: page
+title: #
 tagline: The Computer Engineer's Guide To The Network
 ---
 {% include JB/setup %}
