@@ -2,7 +2,8 @@
 layout: page
 ---
 {% include JB/setup %}
-
+<h2>The Computer Engineer's Guide To The Network</h2>
+<hr size = 5 width=100% align="left" color="black">
 <ul class="posts">
 {% for post in site.posts limit:5 %}
 <article>
