@@ -6,9 +6,6 @@ category: network security
 tags: [shell, network security]
 ---
 {% include JB/setup %}
-
-### Protecting The Shell
-
 Secure Shell ( ssh ) is something that almost everyone who uses a *nix system uses on a regular basis. However, this protocol while being a very powerful tool also brings&nbsp;security&nbsp;risks to a network. If an attacker is able to brute-force, crack, etc a password to a system this could potentially be very bad to a network if it goes unnoticed. On a large network this risk increases and could allow more systems to be taken by an attacker. I work on a Class B network and some of the users to these systems do not have an understanding of the security issues involved. Sure you could try to inform all the users but that isn't as feasible when you allow guests to a network and users are constantly coming/going.<br />
 <br />
 So let's explore some of the security options a network like this has and some possible&nbsp;implementations to secure your own *nix system. One of the easiest things to do is to go into your ssh daemon and change the default port that ssh uses. Instead of port 22 you could use something like 22222. Just like that you have adverted an attacker scanning across the net for port 22 and are now less likely to have brute-force attacks on your system.<br />
@@ -39,7 +36,9 @@ Now these are just very basic scans and there are a ton of options to add on but
 <br /></div>
 <div>
 <div>
+{% highlight bash %}
 $ nmap -PN -p 2222 192.168.0.168 -sV --script=banner</div>
+{% endhighlight %}
 <div>
 <br /></div>
 <div>
