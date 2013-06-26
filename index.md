@@ -11,7 +11,7 @@ tagline: The Computer Engineer's Guide To The Network
 <h2>[{{post.category}}] - <em><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></em></h2>
 <p>{{ post.content }}</p>
 </article>
-{% endfor %}content</ul>
+{% endfor %}
 
 <h2><a href="archive.html">More Posts</a></h2>
 
