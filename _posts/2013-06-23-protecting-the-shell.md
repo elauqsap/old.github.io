@@ -27,7 +27,7 @@ Now while this is easy to implement in your sshd_config that does not mean you a
 Now these are just very basic scans and there are a ton of options to add on but lets look at the first example. This scan is looking for variations on a host for port 22. Like I said this option is the easy way and sometimes the lazy way. The second example shows how an attacker can scan some of the dynamic ports and the third example shows how an attacker can scan all the non standard ports for anything that may be open for an attack. Now scanning like this isn't as common because if you are doing this for a large network it would take a fair amount of time and might become noticeable. The fourth example shows a variation of the third but implements a service scan which would allow an attacker to grab the banner and list the service listening on that port.
 <div></div>
 **Example Ouput**
-{% highlight bash %}
+{% highlight bash  %}
 $ nmap -PN -p 2222 192.168.0.168 -sV --script=banner
 Starting Nmap 6.00 ( http://nmap.org ) at 2013-03-26 21:48
 Nmap scan report for bleh (192.168.0.168)
@@ -41,11 +41,11 @@ As you can see this means that although we may have deterred one attack we are s
 Something I was going to do and may be an option for you is to write a script to check your logs every once in awhile. In the sshd_config you can enable <a href="https://help.ubuntu.com/community/SSH/OpenSSH/Configuring" target="_blank"><span style="color: blue;">logs</span></a> that keep track of who attempts what for ssh on your system. Reading these logs is somewhat painful so install logwatch or some other log reader/formatter. With these two you could write a script to parse the logs and give you updates on possible things to look out for.<br />
 <br />
 Debian based systems 
-{% highlight bash %}
+{% highlight bash  %}
 $ apt-get install logwatch
 {% endhighlight %}
 RHEL based systems:
-{% highlight bash %}
+{% highlight bash  %}
 $ yum install logwatch
 {% endhighlight %}
 
@@ -53,7 +53,7 @@ $ yum install logwatch
 Now the final option I would like to talk about is two factor authentication. I recently started using this system which allows me to login with a password or an RSA key. After that authentication is successful, a command is called to a program which gives me options to verify this connection via my phone. Now this adds a cool factor because I can see the IP and where it is coming from with the options to allow or deny the connection ( using the mobile app ). You could also receive a phone call or SMS based on your preferred method of delivery ( costs a telephony credit ).<br />
 <div></div>
 **Example Output**
-{% highlight bash %}
+{% highlight bash  %}
 $ ssh bleh.com
 Duo two-factor login for <username>
 Enter a passcode or select one of the following options:
