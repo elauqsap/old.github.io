@@ -70,4 +70,4 @@ The last bit here is to clean up and provide an exit code for the user as well a
 $ ./tds.sh 2> /path/to/tdsError.log
 {% endhighlight %}
 
-We remove the final file and exit with a code of 1 to show that not all of the processes we wanted to end were stopped properly. That is it for this script, please feel free to ask any questions you have and if I noticed anything that might be helpful I will be sure to address it in the next CLF post.
+We remove the final file and exit with a code of 1 to show that not all of the processes we wanted to end were stopped properly. That is it for this script, please feel free to ask any questions you have and if I notice anything that might be helpful I will be sure to address it in the next CLF post.
