@@ -1,6 +1,6 @@
 # pasqualedagostino.github.io
 
-This is my Personal Blog powered Jekyll and hosted by GitHub pages
+This is my Personal Blog powered by Jekyll and hosted by GitHub pages
 
 ## About Me
 
