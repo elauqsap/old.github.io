@@ -20,11 +20,13 @@ I will be populating this page with links to websites I find helpful to Security
 
 [Malware Analysis](http://contagiodump.blogspot.com/)
 
-**Programing**
+**Programming**
 
 [AVR Tutorials](http://www.avr-asm-tutorial.net/avr_en/beginner/index.html)
 
 [Know Thy Complexities](http://bigocheatsheet.com/#)
+
+[Ultimate CS Cheat Sheet](http://pasqualedagostino.github.io/pdf/cheat.pdf)
 
 **Networking**
 
