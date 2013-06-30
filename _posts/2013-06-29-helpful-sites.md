@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Helpful Sites"
+description: ""
+category: helpful sites
+tags: [links]	
+---
+{% include JB/setup %}
+I will be populating this page with links to websites I find helpful to Security, Networking, Programming, and System Administration.
+
+**Security**
+
+[Exploit Training VMs](http://exploit-exercises.com/)
+
+[Krebs on Security Blog](http://krebsonsecurity.com/)
+
+[The H Security Blog](http://www.h-online.com/security/)
+
+[INFOSEC Resources](http://resources.infosecinstitute.com/)
+
+[Malware Analysis](http://contagiodump.blogspot.com/)
+
+**Programing**
+
+[AVR Tutorials](http://www.avr-asm-tutorial.net/avr_en/beginner/index.html)
+
+[Know Thy Complexities](http://bigocheatsheet.com/#)
+
+**Networking**
+
+[Basic Networking Tutorial](http://www.techiwarehouse.com/cms/engine.php?page_id=d9e99072)
+
+**System Administration**
+
+[Linux Home Networking](http://www.linuxhomenetworking.com/) - Really good website that also provides tutorials for Programming and Networking
