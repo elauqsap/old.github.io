@@ -6,27 +6,17 @@ category: helpful sites
 tags: [links]	
 ---
 {% include JB/setup %}
-I will be populating this page with links to websites I find helpful to Security, Networking, Programming, and System Administration.
+I will be populating this page with links to websites I find helpful to Security, Networking, Programming, and System Administration. I highly recommend the Linux Home Networking link if you are into Networking, Programming, and System Administration.
 
 **Security**
 
-[Exploit Training VMs](http://exploit-exercises.com/)
-
-[Krebs on Security Blog](http://krebsonsecurity.com/)
-
-[The H Security Blog](http://www.h-online.com/security/)
-
-[INFOSEC Resources](http://resources.infosecinstitute.com/)
+[Exploit Training VMs](http://exploit-exercises.com/) / [Krebs on Security Blog](http://krebsonsecurity.com/) / [The H Security Blog](http://www.h-online.com/security/) / [INFOSEC Resources](http://resources.infosecinstitute.com/) 
 
 [Malware Analysis](http://contagiodump.blogspot.com/)
 
 **Programming**
 
-[AVR Tutorials](http://www.avr-asm-tutorial.net/avr_en/beginner/index.html)
-
-[Know Thy Complexities](http://bigocheatsheet.com/#)
-
-[Ultimate CS Cheat Sheet](http://pasqualedagostino.github.io/pdf/cheat.pdf)
+[AVR Tutorials](http://www.avr-asm-tutorial.net/avr_en/beginner/index.html) / [Know Thy Complexities](http://bigocheatsheet.com/#) / [Ultimate CS Cheat Sheet](http://pasqualedagostino.github.io/pdf/cheat.pdf)
 
 **Networking**
 
@@ -34,4 +24,4 @@ I will be populating this page with links to websites I find helpful to Security
 
 **System Administration**
 
-[Linux Home Networking](http://www.linuxhomenetworking.com/) - Really good website that also provides tutorials for Programming and Networking
+[Linux Home Networking](http://www.linuxhomenetworking.com/)
