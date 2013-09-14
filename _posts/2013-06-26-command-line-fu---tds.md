@@ -8,7 +8,7 @@ tags: [scripting, sys admin]
 {% include JB/setup %}
 About a year ago, I use to believe that I had a pretty good idea on how to use a Linux system from the command line. I realize now that I have barely scratched the surface of it's potential. So that is why one of my on going post segments will be about command line usage and scripting. To me, learning how to leverage the command line has been one of the most helpful techniques in bridging my gap into network security. Today I have a script that I wrote to deal with rogue processes on a system and I would like to walk through it with you.
 
-You can check out the whole [project here](http://pasqualedagostino.github.io/tds) or you can follow along with the segments I provide. The script was written in bash and was done so for CentOS 6.3 so some of the commands used may have different syntax.
+You can check out the whole [project here](http://elauqsap.github.io/tds) or you can follow along with the segments I provide. The script was written in bash and was done so for CentOS 6.3 so some of the commands used may have different syntax.
 
 Let's start with ```set +x``` and ```set -x``` because this is an important debugging tool which allows you to see via the command line exactly what is happening as the code is executed. Just place the +x before and the -x after the bug and run the script to see the issue. 
 
