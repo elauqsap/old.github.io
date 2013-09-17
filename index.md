@@ -15,4 +15,4 @@ tagline: The Computer Engineer's Guide To The Network
 
 <h2><a href="archive.html">More Posts</a></h2>
 
-Read [About Me](http://pasqualedagostino.github.io/intro/2013/06/22/about-me/)
+Read [About Me](http://elauqsap.github.io/intro/2013/06/22/about-me/)
