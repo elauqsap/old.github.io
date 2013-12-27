@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "b2b4fe30feddc7a6484994bcd0e7147cd7dcc6db-privatekey.p12"]
 auto: true
 pygments: true
 
@@ -128,4 +128,16 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+  jekyll_ga:
+  service_account_email: 193641611817@developer.gserviceaccount.com   # service account email address
+  key_file: b2b4fe30feddc7a6484994bcd0e7147cd7dcc6db-privatekey.p12  # service account private key file
+  key_secret: notasecret    # service account private key's password
+  profileID: ga:80438635    # profile ID 
+  start: last month         # Beginning of report
+  end: now                  # End of report
+  metric: ga:pageviews      # Metric code
+  segment:                  # optional
+  filters:                  # optional
+  sort: true                # Sort posts by this metric
   
