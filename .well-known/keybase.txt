@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/elauqsap
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of http://pdagostino.com
+* I am elauqsap (https://keybase.io/elauqsap) on keybase.
+* I have a public key with fingerprint 9B6E 5B4D 1631 E58B 1C69  F146 D3BD 4135 1575 4368
+
+To claim this, I am signing this object:
+
+{
+	"body": {
+		"key": {
+			"fingerprint": "9b6e5b4d1631e58b1c69f146d3bd413515754368",
+			"host": "keybase.io",
+			"key_id": "D3BD413515754368",
+			"uid": "cf1550e9ca4f9cb6a26042061baab900",
+			"username": "elauqsap"
+		},
+		"service": {
+			"hostname": "pdagostino.com",
+			"protocol": "http:"
+		},
+		"type": "web_service_binding",
+		"version": 1
+	},
+	"ctime": 1396808110,
+	"expire_in": 157680000,
+	"prev": "ddf3ead3fc64998d5bc53411fa3c09e84a8e1e35fa9d10f8d2f9b60a1933fde3",
+	"seqno": 4,
+	"tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMV4ea+jqWipcwbj6QOfkxiCHWeuq1ZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSpZJZqmmSSYphmbGhqmmFkmGyWaWaYYmZinGSSkmhsamhqbmpibGZhZK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQ1MXYyQVNfSlYIjnN0NTUINUyOdEkzTI5
+ySzRyMzAxMjAzDApMTHJ0sAApLA4tSgvMTcVqDo1J7G0sDixQKlWRwkoWpaZnApy
+M8hqqIqClMR0IC8zL18vOT8XqLugKL8kPzk/ByiXUVJSYAXSWlJZAFJbnpoUDzUl
+PikzLwXoc6CGstSi4sz8PCUrQ6DK5JJMkLGGxpZmFgYWhoYGOkqpFQWZRanxmSAV
+puZAYSAAWZNaBjQyJSXNODUxxTgt2czE0tIixTQp2dTYxNAwLdE42cAy1cIk0SLV
+MNXYNC3RMsXQIM0ixSgNGMQGiYaWxsZpKanGSiB/FeblK1mZAJ2ZmA40sjgzPS+x
+pLQoVam2k0mGhYGRi4GNlQkUdwxcnAKwGOVKFmDYySTi2DrDc3n+9CLe7Wp83Y+i
+OO2m7U2Vqzc5/7Fivw/3e98HT/6s2hYzYf+R5272dXFTJrUc5v021X7lui0fN+ud
+Px/cdOS804ovuevYzvf5MBoK2049dOrz+aXH94f1vXA6vvmN4PJI3+rj/Uu/pTD8
+2mCfs3oN06UvCQJHn4a+1eCenqbyYNJ/hYzEltwXt5jK9auuFx07lK10RHNHg4qF
+Q4bEnMr5xfw3vMMmP5JMyub/Y/9AeUXRoS2Zwt/2Fd9RU+QMWrB0G/fS50IPw98w
+RW/eOHkxk1ed2j2vArGKD/mnxS/qH4s4yqx+56HQjqR3YtvOvJinVFM0xSxt959/
+POlJn0M+7QvVP15ucjg5bbXu/qB1JsIFOWb8c+NeVeucY/XgOX7R/ZJ5MoOzRUGd
+toHY5w+2DpaJtW/OWYiE/luWfIYv5eQl0f3J/3NWNT90aKw+IyuhqGHQ+0BV1nFX
+36GkT+n/LY6LPtq6THr/P49dK30qYx+fW6BSKh26r2Xu/OxjTbvfzlZ7dp358I8V
+Xy10XNjvX57y+eUCiy38W7MbkqL31DZxnHr06vvrxKAKYcelv56Fqb4RP9z3nv/X
+oaIvakEsFgvWFlTPKGCdJ1eWHfFHJ23Zhbq+nLsJ/xUOzeU/seCUbprsl8jnM/U1
+686Xbfuzcr9Dr4jql1X+Jz52XgswbNs9dabBgmUHPXX9zh70MtuwyUCeDwA=
+=E7sQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/elauqsap
+
+==================================================================
